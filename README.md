@@ -44,7 +44,7 @@ API:
  - icon - blueprintjs icon name (https://blueprintjs.com/)
 
 ### Dropdown
-Dropdown component implemented in `dropdown-field.js`. It is a simple implementaition wiht no particular dependencies, except of axios (http calls) and blueprintjs (styling).
+Dropdown component implemented in `dropdown-field.js`. It is a simple implementation with no particular dependencies, except of axios (http calls) and blueprintjs (styling).
 
 Key features:
 * Based on ServiceNow Table API
